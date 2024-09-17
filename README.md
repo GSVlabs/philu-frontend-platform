@@ -1,3 +1,5 @@
+This repo is part of the philu set of repos, that create the philanthropyu.org website
+
 [![Build Status](https://github.com/openedx/frontend-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/openedx/frontend-platform/actions/workflows/ci.yml)
 [![Codecov](https://img.shields.io/codecov/c/github/edx/frontend-platform)](https://codecov.io/gh/edx/frontend-platform)
 [![NPM Version](https://img.shields.io/npm/v/@edx/frontend-platform.svg)](https://www.npmjs.com/package/@edx/frontend-platform)
